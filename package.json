@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whtsky/tslint-config-jotang.git"
+    "url": "git+https://github.com/JoTang/tslint-config-jotang.git"
   },
   "keywords": [
     "tslint",
@@ -19,9 +19,9 @@
   "author": "",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/whtsky/tslint-config-jotang/issues"
+    "url": "https://github.com/JoTang/tslint-config-jotang/issues"
   },
-  "homepage": "https://github.com/whtsky/tslint-config-jotang#readme",
+  "homepage": "https://github.com/JoTang/tslint-config-jotang#readme",
   "peerDependencies": {
     "tslint": "4.x"
   }

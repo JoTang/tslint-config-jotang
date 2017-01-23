@@ -3,7 +3,7 @@ TSLint config used by JoTang
 
 ## Installation
 ```bash
-yarn add --dev 
+yarn add --dev tslint-config-jotang
 ```
 
 ## Usage
