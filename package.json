@@ -1,0 +1,28 @@
+{
+  "name": "tslint-config-jotang",
+  "version": "1.0.0",
+  "description": "TSLint config used by JoTang",
+  "main": "tslint.json",
+  "files": [
+    "tslint.json",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whtsky/tslint-config-jotang.git"
+  },
+  "keywords": [
+    "tslint",
+    "jotang",
+    "typescript"
+  ],
+  "author": "",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/whtsky/tslint-config-jotang/issues"
+  },
+  "homepage": "https://github.com/whtsky/tslint-config-jotang#readme",
+  "peerDependencies": {
+    "tslint": "4.x"
+  }
+}
