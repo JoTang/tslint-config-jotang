@@ -1,6 +1,6 @@
 {
-  "name": "tslint-config-jotang",
-  "version": "1.0.0",
+  "name": "@jotang/tslint-config-jotang",
+  "version": "1.1.0",
   "description": "TSLint config used by JoTang",
   "main": "tslint.json",
   "files": [
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/JoTang/tslint-config-jotang#readme",
   "peerDependencies": {
-    "tslint": "4.x"
+    "tslint": "4.x",
+    "tslint-react": "2.4.x"
   }
 }
