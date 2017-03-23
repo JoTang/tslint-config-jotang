@@ -1,4 +1,5 @@
 {
+  "extends": ["tslint-react"],
   "rules": {
     "adjacent-overload-signatures": true,
     "align": [
@@ -160,6 +161,14 @@
       "check-separator",
       "check-type",
       "check-typecast"
-    ]
+    ],
+    "jsx-boolean-value": [true, "never"],
+    "jsx-alignment": true,
+    "jsx-curly-spacing": [2, "never"],
+    "jsx-no-lambda": true,
+    "jsx-no-multiline-js": true,
+    "jsx-no-string-ref": true,
+    "jsx-self-close": true,
+    "jsx-wrap-multiline": true
   }
 }
